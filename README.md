@@ -8,7 +8,7 @@ Esp32 CAM + Micro Python<br>
 + 在SDCard根目录下创建对应的json文件
 + 例程: `{"saturation": 0, "brightness": 0, "contrast": 0, "quality": 10, "flip": 0, "mirror": 0, "framesize": 13, "speffect": 0, "whitebalance": 0, "sleeptime": 2, "maxpic": 3000}` 
 
-<br>
+
 #### 板载LED相关:
 + 上电闪烁(0.5s) => 已开机, LED正常
 + 常亮 => 正在拍照
